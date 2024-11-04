@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to TestBank accounts related production APIs"
+  message: "Welcome to TestBank accounts related prod APIs"
   contactDetails:
     name: "Thomas Prod"
     email: "{cipher}1cffa279149d7cbb66f81d875fd85a2fb6976026705ce2c37b3bf85dd9aa422a954c5caf7594cd7f6f03e24fa6caecb6"
