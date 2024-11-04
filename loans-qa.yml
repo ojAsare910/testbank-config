@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to TestBank loans related QA APIs"
   contactDetails:
-    name: "Jackson"
+    name: "Jackson QA"
     email: "jackson2019@gmail.com"
   onCallSupport:
     - (026) 131-3763

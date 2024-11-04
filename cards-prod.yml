@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to TestBank cards related prod APIs"
   contactDetails:
-    name: "Thomas Boateng"
+    name: "Thomas Prod"
     email: "tboateng@gmail.com"
   onCallSupport:
     - (050) 289-0275

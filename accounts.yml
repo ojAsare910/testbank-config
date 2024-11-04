@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to TestBank accounts related local APIs"
   contactDetails:
-    name: "Justice Owusu"
+    name: "Justice local"
     email: "jforms2019@gmail.com"
   onCallSupport:
     - (025) 541-6823
