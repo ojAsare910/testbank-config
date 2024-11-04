@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to TestBank loans related local APIs"
+  contactDetails:
+    name: "Justice Owusu"
+    email: "jforms2019@gmail.com"
+  onCallSupport:
+    - (025) 541-6823

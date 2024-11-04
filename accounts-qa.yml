@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to TestBank accounts related QA APIs"
+  contactDetails:
+    name: "Jackson"
+    email: "jackson2019@gmail.com"
+  onCallSupport:
+    - (026) 131-3763

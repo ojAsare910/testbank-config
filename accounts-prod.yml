@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to TestBank accounts related prod APIs"
+  contactDetails:
+    name: "Thomas Boateng"
+    email: "tboateng@gmail.com"
+  onCallSupport:
+    - (050) 289-0275
